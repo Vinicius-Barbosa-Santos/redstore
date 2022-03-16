@@ -349,7 +349,9 @@ nav ul li a {
 }
 
 .cards1-box-image {
+    display: flex;
     margin-top: 10px;
+    justify-content: center;
 }
 
 .cards-name {
@@ -359,8 +361,7 @@ nav ul li a {
 }
 
 .cards1-box-image img{
-    width: 100%;
-    height: 20%;
+    width: 20%;
     border-radius: 50%;
 }
 
